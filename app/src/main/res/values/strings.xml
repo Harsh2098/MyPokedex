@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Pokedex</string>
+    <string name="pokemon_image_content_desc">pokemon_image</string>
+    <string name="go">GO</string>
+    <string name="pokemon_name_eg_suicune">Pokemon Name (Eg. Suicune)</string>
+    <string name="history">History</string>
+    <string name="delete">Delete</string>
+</resources>
